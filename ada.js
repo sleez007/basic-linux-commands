@@ -1,1 +1,1 @@
-const myName = "AMAKA"
+const myName = "AMAKA BREAKFAST";
